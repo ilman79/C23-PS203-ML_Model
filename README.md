@@ -8,20 +8,13 @@
 ## Resource
 
  - [Kaggle](https://www.kaggle.com/datasets/cakrulgaming/indonesia-traffic-sign)
- - [sadaddwq](https://github.com/matiassingers/awesome-readme)
- - [How to write a Good readme](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
+ - [testing](https://github.com/matiassingers/awesome-readme)
+ - [testing](https://bulldogjob.com/news/449-how-to-write-a-good-readme-for-your-github-project)
 
 
 ## Screenshots
 
 ![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
-
-
-## Roadmap
-
-- Additional browser support
-
-- Add more integrations
 
 
 ## 🔗 Links
