@@ -1,5 +1,5 @@
 # RSS_ML_Model
-![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
+![Logo](http://www.clipartbest.com/cliparts/9Tz/Lro/9TzLroyxc.jpg)
 
 ## Our dataset to use
 
@@ -13,7 +13,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/drive/u/0/folders/1p7CG3gKjD_q_w_CkyN99NXHDheVVUiCc)
+![App Screenshot](https://images4.programmersought.com/914/86/86cdad55697953ba590f8412ee8592e2.png)
 
 
 ## 🔗 Links
