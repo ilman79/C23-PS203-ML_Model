@@ -1,0 +1,8 @@
+'0' 'Dilarang Berhenti'
+'10' 'Isyarat Lalu Lintas'
+'14' 'Penegasan Rambu Tambahan'
+'17' 'Area Parkir'
+'2' 'Dilarang Parkir'
+'6' 'Dilarang Belok Kanan'
+'7' 'Dilarang Belok Kiri'
+'9' 'Dilarang Memutar'
