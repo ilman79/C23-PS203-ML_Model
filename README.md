@@ -14,7 +14,7 @@
 
 ## Screenshots
 
-![App Screenshot](https://drive.google.com/file/d/1rsKcLJSU2SIUhgsNydGtw5ioZlWI1CML/view?usp=drive_link)
+![App Screenshot](https://drive.google.com/drive/u/0/folders/1p7CG3gKjD_q_w_CkyN99NXHDheVVUiCc)
 
 
 ## 🔗 Links
