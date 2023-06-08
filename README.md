@@ -1,7 +1,7 @@
 # RSS_ML_Model
 ![Logo](https://dev-to-uploads.s3.amazonaws.com/uploads/articles/th5xamgrr6se0x5ro4g6.png)
 
-## Our Dataset to Use
+## Our dataset to use
 
 [RRD dataset](https://drive.google.com/drive/u/0/folders/1uaslNJj9-FcRQ2eu2Qda8qdFRi1_flb0)
 
