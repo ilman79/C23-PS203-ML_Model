@@ -1,5 +1,5 @@
 # RSS_ML_Model
-![Logo](http://www.clipartbest.com/cliparts/9Tz/Lro/9TzLroyxc.jpg](https://discord.com/channels/1102865604165259284/1116640415580430356)
+![Logo](https://discord.com/channels/1102865604165259284/1116640415580430356)
 
 ## Our dataset to use
 
