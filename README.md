@@ -1,5 +1,5 @@
 # RSS_ML_Model
-![Logo](https://discord.com/channels/1102865604165259284/1116640415580430356)
+![Logo](https://media.discordapp.net/attachments/1116640415580430356/1117724197997789224/5F0E5461-FB2D-4850-B7C7-765BBA37EB44.png?width=375&height=375)
 
 ## Our dataset to use
 
